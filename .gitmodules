@@ -1,0 +1,3 @@
+[submodule "3rdparty/qtejdb"]
+	path = 3rdparty/qtejdb
+	url = https://github.com/markusmarx/qtejdb
